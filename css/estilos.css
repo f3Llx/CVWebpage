@@ -26,6 +26,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: rgb(119, 90, 221);
+}
+
 
 /* Imagen a la derecha */
 
